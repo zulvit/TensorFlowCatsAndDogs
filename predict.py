@@ -6,7 +6,11 @@ import numpy as np
 CATEGORIES = ['Cat', 'Dog']
 test_photo = ['images/Cat (0).jpg', 'images/Cat (1).jpg', 'images/Cat (2).jpg', 'images/Cat (3).jpg',
               'images/Cat (4).jpg', 'images/Cat (5).jpg', 'images/Cat (6).jpg', 'images/Cat (7).jpg',
-              'images/Cat (8).jpg', 'images/Cat (9).jpg']
+              'images/Cat (8).jpg', 'images/Cat (9).jpg', 'images/Dog (0).jpg', 'images/Dog (1).jpg',
+              'images/Dog (2).jpg', 'images/Dog (3).jpg', 'images/Dog (4).jpg', 'images/Dog (5).jpg',
+              'images/Dog (6).jpg', 'images/Dog (7).jpg', 'images/Dog (8).jpg', 'images/Dog (9).jpg',
+              'images/Panda (0).jpg', 'images/Panda (1).jpg', 'images/Panda (2).jpg', 'images/Panda (3).jpg',
+              'images/Panda (4).jpg']
 
 
 def image(path):
